@@ -2,7 +2,7 @@ import React from 'react';
 import {Route, IndexRoute} from 'react-router';
 import Home from './components/common/HomePage';
 import About from './components/common/AboutPage';
-import Book from './components/common/BookPage';
+import Book from './components/books/BookPage';
 import App from './components/App';
 
 export default (
